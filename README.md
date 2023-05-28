@@ -37,12 +37,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Areshkew/Areshkew/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">📘About Me</h2>
 
 ###
