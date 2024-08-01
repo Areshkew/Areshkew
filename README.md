@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Gustavo and I'm a FullStack Web and C++ Dev, in Colombia 🇨🇴</h2>
+<h2 align="left">Hi 👋! My name is Gustavo and I'm a Developer, in Colombia 🇨🇴</h2>
 
 ###
 
