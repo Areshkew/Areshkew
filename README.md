@@ -49,7 +49,7 @@
 
 ###
 
-<p align="left">I am Gustavo Ramirez, an experienced full stack developer with extensive knowledge in various technologies and tools. My focus is on creating comprehensive and functional solutions, covering both frontend and backend development. I possess strong skills in Node.js, Angular, HTML, CSS, and JavaScript, along with experience in SQL and MongoDB databases. I obtained a software programming technician degree from SENA in 2019 and I am currently pursuing a degree in systems engineering at the Universidad Tecnológica de Pereira. I am recognized for my ability to solve logical problems, optimize code performance, and design efficient architectures. I am known for my reliability, honesty, and teamwork skills, always seeking to overcome challenges and find creative solutions. I continuously stay updated with the latest technologies and trends in the programming field, aiming to grow and bring value to the software development field. As a professional committed to excellence, I am prepared to tackle any project and meet the highest quality standards.</p>
+<p align="left">I am Gustavo Ramirez, an experienced full stack developer with extensive knowledge in various technologies and tools. My focus is on creating comprehensive and functional solutions. I obtained a software programming technician degree from SENA in 2019 and I am currently pursuing a degree in systems engineering at the Universidad Tecnológica de Pereira. I continuously stay updated with the latest technologies and trends in the programming field, aiming to grow and bring value to the software development field.</p>
 
 ###
 
