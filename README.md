@@ -8,7 +8,7 @@
 
 ### 🛠 Key Competencies
 
-- **Languages**: JavaScript, TypeScript, Python, C, HTML5, CSS3
+- **Languages**: C, C++, JavaScript, TypeScript, Python, HTML5, CSS3
 - **Backend**: Node.js, Postgres, Bun, MongoDB, MySQL, REST APIs, Microservices
 - **Frontend**: Angular, Typescript, Modern JavaScript frameworks
 - **Tools**: Docker, Git, GitHub Actions, Continuous Integration/Continuous Deployment (CI/CD)
@@ -37,7 +37,7 @@ I am a dedicated software engineer specializing in building high-performance sys
 
 ### 📚 Current Learning
 
-- **Low Level Programming**: C, Data Structures
+- **Low Level Programming**: C, C++, Data Structures
 - **OOP**: Design patterns
 - **Microservices & Distributed Systems**: Building resilient, fault-tolerant architectures
 
