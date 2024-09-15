@@ -30,8 +30,9 @@ I am a dedicated software engineer specializing in building high-performance sys
 
 | Project            | Description                                                                 | Technologies                             | Repository                                      |
 | ------------------ | --------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------- |
-| **LibHub**         | FullStack Ecommerce Book Shop                                                | Angular, Python(FastApi), CI/CD  | [Repo Link](https://github.com/Areshkew/humble-project-ui)             |
-| **Portfolio**      | Built a personal portfolio using vanilla js, css and html.                    | HTML, CSS, JS          | [Repo Link](https://areshkew.github.io/portfolio/)             |
+| **LibHub**         | FullStack Ecommerce Book Shop                                                | Angular, Python(FastApi), CI/CD          | [Repo Link](https://github.com/Areshkew/humble-project-ui)             |
+| **Portfolio**      | Built a personal portfolio using vanilla js, css and html.                    | HTML, CSS, JS                            | [Repo Link](https://areshkew.github.io/portfolio/)                     |
+| **Risc-V compilers** | Educational compiler generating RISC-V assembly code and a RISC-V compiler for converting Assembly to Binary/Hex instructions. | C++, Python                              | [Kaleidoscope Repo](https://github.com/Areshkew/kaleidoscope-riscv), [Tiny RISC-V Repo](https://github.com/Areshkew/tiny-risc-v) |
 
 ---
 
