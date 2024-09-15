@@ -2,8 +2,6 @@
 
 <h2 align="center">Hello, I'm Gustavo 👋 | Software Engineer from Colombia 🇨🇴</h2>
 
-<p align="center">Building scalable, high-performance systems with a focus on software architecture and engineering excellence.</p>
-
 ---
 
 ### 🛠 Key Competencies
