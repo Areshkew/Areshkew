@@ -39,7 +39,7 @@ I am a dedicated software engineer specializing in building high-performance sys
 | Project            | Description                                                                 | Technologies                             | Repository                                      |
 | ------------------ | --------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------- |
 | **Angular TodoList**         | Simple angular todolist with features related to reactive forms.                                               | Angular        | [Repo Link](https://github.com/Areshkew/taskmanagment)             |
-| **MLE-Airliness**      | XGBoost model api related to Airlines                   | FastApi, Azure, Python, Jupyter, Docker                           | [Repo Link](https://github.com/Areshkew/MLE-Airlines)                     |
+| **MLE-Airliness**      | XGBoost model api related to Airliness                   | FastApi, Azure, Python, Jupyter, Docker                           | [Repo Link](https://github.com/Areshkew/MLE-Airlines)                     |
 | **CRM fullstack** | Client management web with basic crud operations, advanced search... | ReactJS(tanstack), ExpressJS, MVC, PostgreSQL. | [Repo Link](https://github.com/Areshkew/crm-react) |
 
 
