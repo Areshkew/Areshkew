@@ -41,6 +41,7 @@ I am a dedicated software engineer specializing in building high-performance sys
 | **Angular TodoList**         | Simple angular todolist with features related to reactive forms.                                               | Angular        | [Repo Link](https://github.com/Areshkew/taskmanagment)             |
 | **MLE-Airliness**      | XGBoost model api related to Airliness                   | FastApi, Azure, Python, Jupyter, Docker                           | [Repo Link](https://github.com/Areshkew/MLE-Airlines)                     |
 | **CRM fullstack** | Client management web with basic crud operations, advanced search... | ReactJS(tanstack), ExpressJS, MVC, PostgreSQL. | [Repo Link](https://github.com/Areshkew/crm-react) |
+| **Tic-Tac-Toe Backend** | Tictactoe game with features as player vs player, player vs ia, real time chat and leaderboard | FastAPI, SQLite | [Repo Link](https://github.com/Areshkew/triqui-websocket-backend) |
 
 
 ---
