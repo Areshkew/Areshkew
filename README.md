@@ -54,12 +54,6 @@ I am a dedicated software engineer specializing in building high-performance sys
 
 ---
 
-### 👨‍💻 Systems Engineering in Action
-
-I am currently finishing a degree in Systems Engineering at the **Universidad Tecnológica de Pereira** to deepen my understanding of software architecture, operating systems, and advanced systems design.
-
----
-
 
 ### 🤝 Let's Connect
 <center>
