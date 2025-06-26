@@ -28,9 +28,10 @@ I am a dedicated software engineer specializing in building high-performance sys
 
 | Project            | Description                                                                 | Technologies                             | Repository                                      |
 | ------------------ | --------------------------------------------------------------------------- | ---------------------------------------- | ----------------------------------------------- |
-| **LibHub**         | FullStack Ecommerce Book Shop                                                | Angular, Python(FastApi), CI/CD          | [Repo Link](https://github.com/Areshkew/humble-project-ui)             |
-| **Portfolio**      | Personal portfolio                    | HTML, CSS, JS                            | [Repo Link](https://areshkew.github.io/portfolio/)                     |
-| **Risc-V** | Educational compiler generating RISC-V assembly code, a RISC-V compiler for converting Assembly to Binary/Hex instructions, a RISC-V verilog monocycle processor and RISC-V verilog pipelined processor. | C++, Python, Verilog                              | [Kaleidoscope Repo](https://github.com/Areshkew/kaleidoscope-riscv), [Tiny RISC-V Repo](https://github.com/Areshkew/tiny-risc-v), [Monocyle RISC-V](https://github.com/Areshkew/riscv32-verilog), [Pipelined RISC-V](https://github.com/Areshkew/riscv32-pipelined) |
+| **LibHub**         | FullStack Ecommerce Book Shop                                                | Angular, Python (FastAPI), CI/CD         | [Repo Link](https://github.com/Areshkew/humble-project-ui)             |
+| **Portfolio**      | Personal portfolio                                                           | HTML, CSS, JS                             | [Repo Link](https://areshkew.github.io/portfolio/)                     |
+| **Edunat**         | Educational platform for managing courses and users, featuring full JWT auth, PostgreSQL database, and RESTful backend API. | Python (FastAPI), PostgreSQL, Docker, Nginx, JavaScript | [Repo Link](https://github.com/Areshkew/edunat) |
+| **Risc-V**         | Educational compiler generating RISC-V assembly code, a RISC-V compiler for converting Assembly to Binary/Hex instructions, a RISC-V Verilog monocycle processor and RISC-V Verilog pipelined processor. | C++, Python, Verilog                     | [Kaleidoscope Repo](https://github.com/Areshkew/kaleidoscope-riscv), [Tiny RISC-V Repo](https://github.com/Areshkew/tiny-risc-v), [Monocyle RISC-V](https://github.com/Areshkew/riscv32-verilog), [Pipelined RISC-V](https://github.com/Areshkew/riscv32-pipelined) |
 
 ---
 
