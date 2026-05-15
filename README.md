@@ -4,19 +4,7 @@
   <em>Software Engineer from Colombia — building systems that scale</em>
 </p>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Areshkew&color=58a6ff"/>
-</p>
 
-<p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Areshkew&show_icons=true&count_private=true&theme=github_dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areshkew&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000&langs_count=8">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Areshkew&theme=github-dark-blue&hide_border=true&background=FFFFFF00">
-</p>
-
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Areshkew&theme=discord&no-frame=true&column=4"/>
-</p>
 
 <h2 align="center">Things I've Built</h2>
 
