@@ -1,7 +1,7 @@
 <h2 align="center">Hey, I'm Gustavo</h2>
 
 <p align="center">
-  <em>Software Engineer from Colombia — building systems that scale</em>
+  <em>Aspiring graphics engineer · Software dev from Colombia</em>
 </p>
 
 <p align="center">
@@ -26,7 +26,10 @@
 - 🔧 [AgentEcho](https://github.com/Areshkew/agentecho) — Visual feedback annotation tool for developers. Place markers on DOM elements and generate AI-optimized Markdown.
 - 📖 [LibHub](https://github.com/Areshkew/humble-project-ui) — Full-stack ecommerce book shop with Angular & FastAPI.
 - 🎓 [Edunat](https://github.com/Areshkew/edunat) — Educational platform with JWT auth, PostgreSQL, and a RESTful backend.
-- ⚙️ [RISC-V Suite](https://github.com/Areshkew/kaleidoscope-riscv) — Compiler, assembler, monocycle & pipelined processors in Verilog.
+- ⚙️ [Kaleidoscope RISC-V](https://github.com/Areshkew/kaleidoscope-riscv) — Educational compiler generating RISC-V assembly code.
+- 🔧 [Tiny RISC-V](https://github.com/Areshkew/tiny-risc-v) — Compiler that converts RISC-V assembly to binary/hex instructions.
+- 🖥️ [RISC-V Monocycle](https://github.com/Areshkew/riscv32-verilog) — Monocycle processor implementation in Verilog.
+- ⚡ [RISC-V Pipelined](https://github.com/Areshkew/riscv32-pipelined) — Pipelined processor implementation in Verilog.
 - 🎮 [SwitchElf](https://github.com/Areshkew/Switchelf) — Read books on your Nintendo Switch.
 - 📊 [MLE-Airlines](https://github.com/Areshkew/MLE-Airlines) — XGBoost ML model API deployed on Azure with Docker.
 - 🗂️ [CRM Fullstack](https://github.com/Areshkew/crm-react) — Client management app with React, Express, and PostgreSQL.
@@ -91,4 +94,5 @@
   <a href="mailto:garamirezl@outlook.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="email"/></a>
   <a href="https://www.linkedin.com/in/gustavo-andres-ramirez-lopez-5612861b5/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin"/></a>
   <a href="https://areshkew.github.io/portfolio/"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox-browser&label=&color=FF7139&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio"/></a>
+  <a href="https://areshk.blog/"><img src="https://img.shields.io/static/v1?message=Blog&logo=ghost&label=&color=7B16FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="blog"/></a>
 </p>
