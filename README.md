@@ -92,7 +92,7 @@
 <p align="center">
   <a href="https://discord.com/users/Areshk#7698"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=5865F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord"/></a>
   <a href="mailto:garamirezl@outlook.com"><img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/gustavo-andres-ramirez-lopez-5612861b5/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin"/></a>
+  <a href="https://www.linkedin.com/in/areshk"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin"/></a>
   <a href="https://areshkew.github.io/portfolio/"><img src="https://img.shields.io/static/v1?message=Portfolio&logo=firefox-browser&label=&color=FF7139&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio"/></a>
   <a href="https://areshk.blog/"><img src="https://img.shields.io/static/v1?message=Blog&logo=ghost&label=&color=7B16FF&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="blog"/></a>
 </p>
