@@ -23,6 +23,7 @@
 
 <h2 align="center">Things I've Built</h2>
 
+- 🖥️ [Nana](https://github.com/Areshkew/nana) — Cross-platform terminal multiplexer, IDE, and VCS client. Electron port of [Muxy](https://github.com/muxy-app/muxy).
 - 🔧 [AgentEcho](https://github.com/Areshkew/agentecho) — Visual feedback annotation tool for developers. Place markers on DOM elements and generate AI-optimized Markdown.
 - 📖 [LibHub](https://github.com/Areshkew/humble-project-ui) — Full-stack ecommerce book shop with Angular & FastAPI.
 - 🎓 [Edunat](https://github.com/Areshkew/edunat) — Educational platform with JWT auth, PostgreSQL, and a RESTful backend.
@@ -54,6 +55,7 @@
 <p align="center">
 <a href="#"><img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white"></a>
 <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black"></a>
+<a href="#"><img alt="Electron" src="https://img.shields.io/badge/Electron-47848F.svg?logo=electron&logoColor=white"></a>
 <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
 <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white"></a>
 <a href="#"><img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?logo=express&logoColor=white"></a>
